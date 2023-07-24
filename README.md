@@ -22,10 +22,11 @@
 ![Screenshot (1709)](https://github.com/GavenDcosta/Blog_Website_Django/assets/112816730/0d0dc5fb-cb04-43fe-b63f-85dbc1fe1aa9)
 
 
+![Screenshot (1710)](https://github.com/GavenDcosta/Blog_Website_Django/assets/112816730/7b3a7909-75cc-44df-819e-471c408bd7b2)
+
+
 ![Screenshot (1711)](https://github.com/GavenDcosta/Blog_Website_Django/assets/112816730/23e8d117-6a33-4b98-885f-1c344d14d32b)
 
-
-![Screenshot (1710)](https://github.com/GavenDcosta/Blog_Website_Django/assets/112816730/7b3a7909-75cc-44df-819e-471c408bd7b2)
 
 ![Screenshot (1712)](https://github.com/GavenDcosta/Blog_Website_Django/assets/112816730/70dce01f-5d91-48c1-baa8-4e020e048b30)
 
